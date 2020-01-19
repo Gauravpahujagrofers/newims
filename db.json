@@ -1,8 +1,11 @@
-[
-  {
-    "key1": "value1"
-  },
-  {
-    "key2": "value2"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
